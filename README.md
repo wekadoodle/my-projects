@@ -1,2 +1,2 @@
 - This project is my attempt of creating a POS Machine using python
-- I pulled all the prices and products from a .csv file
+- I pulled all the prices and products from a .csv file and .txt file
