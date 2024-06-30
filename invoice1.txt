@@ -1,0 +1,6 @@
+Sales Invoice
+ID	Product	Price	Quantity	Total
+15	Bay Leaf Ground	61	5	305
+19	Cheese - Cambozola	120	10	1200
+1	Soup Bowl Clear 8oz92008	171	35	5985
+			Grand Total	7490

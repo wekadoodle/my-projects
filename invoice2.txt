@@ -1,0 +1,4 @@
+Sales Invoice
+ID	Product	Price	Quantity	Total
+15	Bay Leaf Ground	61	52	3172
+			Grand Total	3172
