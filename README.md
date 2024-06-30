@@ -1,3 +1,3 @@
-Why hello there!
-You can find all my past projects here
-Feel free to give them a look!
+- Why hello there!
+- You can find all my past projects here
+- Feel free to give them a look!
